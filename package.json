@@ -1,7 +1,7 @@
 {
-    "name": "com.tayx.graphy",
-    "version": "3.0.5",
-    "displayName": "Graphy - Ultimate FPS Counter",
+    "name": "com.ellyality.debug.graphy",
+    "version": "1.0.0",
+    "displayName": "Graphy",
     "description": "Graphy is the ultimate, easy to use, feature packed FPS Counter, stats monitor and debugger for your Unity project.",
     "unity": "2019.4",
     "license": "MIT",
@@ -12,9 +12,5 @@
         "debugger",
         "graphy"
     ],
-    "author": {
-	    "name": "Martin Pane",
-	    "email": "martintayx@gmail.com",
-	    "url": "https://twitter.com/martinTayx"
-  	}
+    "author": "Elly Debug"
 }
